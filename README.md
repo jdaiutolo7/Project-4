@@ -14,3 +14,4 @@ Large telecom companies are seeking to develop models to predict which customer 
 - Python MatPlotLib
 - SQL Database
 - Tableau
+- Scikit-learn
