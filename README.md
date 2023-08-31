@@ -4,13 +4,13 @@ Large telecom companies are seeking to develop models to predict which customer 
 
 # Project Objective:
 
-*Predict customer churn with the dataset provided
-*Develop models to predict which customers are more likely to change
-*Analyze customer characteristics
+- Predict customer churn with the dataset provided
+- Develop models to predict which customers are more likely to change
+- Analyze customer characteristics
 
 # Technologies Used:
 
-*Python Pandas
-*Python MatPlotLib
-*SQL Database
-*Tableau
+- Python Pandas
+- Python MatPlotLib
+- SQL Database
+- Tableau
