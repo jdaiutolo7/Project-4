@@ -15,3 +15,4 @@ Large telecom companies are seeking to develop models to predict which customer 
 - SQL Database
 - Tableau
 - Scikit-learn
+- pydotplus
